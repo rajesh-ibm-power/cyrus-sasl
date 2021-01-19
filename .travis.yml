@@ -1,8 +1,6 @@
 language: c
 group: edge
-arch:
-  - amd64
-  - ppc64le
+
 os:
   - linux
   - osx
